@@ -1,0 +1,75 @@
+body{
+    background: url(landingImage.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Roboto;
+}
+
+#content{
+    text-align: center;
+    padding-top: 25%;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+                0px 8px 13px rgba(0,0,0,0.1),
+                0px 10px 23px rgba(0,0,0,0,1);
+}
+h1, h3{
+    color: white;
+}
+h1{
+    font-weight: 700;
+    font-size: 5em;
+}
+html{
+    height: 100%;
+}
+hr{
+    width: 400px;
+    border-top: 1px solid $F8F8F8;
+    border-bottom: 1px solid rgba(0,0,0,0.2)
+}
+
+.container button{
+    border: none;
+    focus: none;
+}
+
+}
+.btn-lg{
+    border: none;
+    outline:none;
+    focus: none;
+}
+
+.secondContainer{
+    width: 100%;
+    margin-top: 10%;
+    background-color: #FFFFFF;
+}
+.thirdContainer{
+    width: 100%;
+    margin-top: 7%;
+    background-color: #f8f8f8;
+}
+h4{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#hThreeWords{
+    color: 	#D2B48C;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.hFourSectionThree{
+    text-align: left;
+    color: #27A1E0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.pargSectionThree{
+    text-align: left;
+
+}
